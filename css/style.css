@@ -1,0 +1,55 @@
+.color-black{
+    color: black;
+}
+.color-blue{
+    color: blue;
+}
+.color-yellow{
+    color: yellow;
+}
+.color-orange{
+    color: orange;
+}
+.color-white{
+    color: white;
+}
+.color-gray{
+    color: gray;
+}
+.color-red{
+    color: red;
+}
+.bg-black{
+    background-color: black;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-gray{
+    background-color: gray;
+}
+.bg-red{
+    background-color: red;
+}
+.btn{
+    border-radius: 10%;
+    border: none;
+}
+.btn-small{
+    width: 4%;
+}
+.btn-medium{
+    width: 8%;
+}
+.btn-large{
+    width: 16%;
+}
