@@ -19,7 +19,7 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
+    width: 100%;
     font: inherit;
     vertical-align: baseline;
 }
@@ -94,7 +94,7 @@ table {
 }
 /* ##############       BUTTONS       ############## */
 .btn{
-    border-radius: 10%;
+    border-radius: 8px;
     border: none;
     transition: 0.3s;
 }
@@ -103,12 +103,13 @@ table {
     color: black;
 }
 .btn-small{
-    width: 4%;
+    padding: 8px;
 }
+
 .btn-medium{
-    width: 8%;
+    padding: 16px;
 }
 .btn-large{
-    width: 16%;
+    padding: 24px;
 }
 /* ##############              ############## */
