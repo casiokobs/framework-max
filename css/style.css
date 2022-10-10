@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
+    width: 100%;
 }
 ol, ul {
     list-style: none;
@@ -112,4 +113,15 @@ table {
 .btn-large{
     padding: 24px;
 }
-/* ##############              ############## */
+/* ##############       CONTENT       ############## */
+.content{
+    width: 70%;
+    margin: 4vh;
+}
+.card{
+    width:80%;
+    margin: 4vh;
+}
+.flex{
+    display: flex;
+}
